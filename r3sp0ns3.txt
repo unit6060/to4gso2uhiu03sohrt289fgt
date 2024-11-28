@@ -133,7 +133,7 @@ try {
 
 
 # Define the Discord webhook URL
-$webhookUrl = "https://discord.com/api/webhooks/1296464833646170193/LY8Iw5O_xIID4RXd1LL841kRqzbRT96LwXOx5ir52hAdQJcz6Yu3fVy0uqU-A0qXxlQb"
+$webhookUrl = "https://discord.com/api/webhooks/1311743898258767904/1NB0IViZDNMqOXvylwDTmyupM3btVoc6UjgkFeVFdEKvajD2RkqEdSxT5L3_NIOg6JbX"
 
 # Define the message payload
 $payload = @{
